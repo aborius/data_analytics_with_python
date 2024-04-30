@@ -31,10 +31,24 @@ Il notebook `01_Python.ipynb` è progettato per fornire una solida base di conos
 - Funzioni
 - Classi
 
-## 02 Numpy
-- L'utilizzo degli array
+## 02 Numpy: L'utilizzo degli array
+- Introduzione Numpy NArray
+- Operazioni con array
+- Operazioni con matrici
+- Navigare array e matrici
+- Funzioni numpy
+- Linear algebra operations
+- System of linear equations
 
-## 03 Pandas
-- La data manipulation
+## 03 Pandas: La data manipulation
+- Import dati
+- Funzioni generiche dataframe
+- Estrazioni dati dal dataframe
+- Funzioni dataframe
+- Creazione colonna
+- Join
+- Manipolazioni stringhe
+- Manipolazioni date
+
 
 Divertiti ad esplorare e imparare con i notebook! Se hai domande o suggerimenti, non esitare a contattarci. Buona formazione!
