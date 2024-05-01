@@ -1,54 +1,40 @@
 # Data Analytics with Python
 
-Benvenuti alla formazione Python! Questo repository contiene quattro notebook Jupyter che coprono i concetti di base e intermedio di Python, insieme ad esempi pratici e esercizi.
+Benvenuti alla formazione sulla Data Analytics con Python! Questo repository contiene tre notebook Jupyter che coprono i concetti di base e intermedio di Python, con un focus sulle librerie NumPy e Pandas per l'analisi dati.
 
-## 01 Python
+## Introduzione
 
-Il notebook `01_Python.ipynb` è progettato per fornire una solida base di conoscenza su Python, coprendo i seguenti argomenti:
+L'analisi dei dati è fondamentale per comprendere e trarre informazioni significative dai dati. Python offre potenti librerie come NumPy e Pandas che semplificano il processo di manipolazione e analisi dei dati, consentendoci di eseguire operazioni complesse in modo efficiente.
 
-### Introduzione a Python
-- Breve introduzione al linguaggio Python
+## Python
 
-### Modulo 1: Overview Python
-- Commenti
-- Data types
-- Operatori aritmetici
-- Variabili
-- Operazioni sulle stringhe
+Il notebook `01_Python.ipynb` fornisce una solida base di conoscenza su Python, coprendo argomenti fondamentali e concetti avanzati, tra cui:
 
-### Modulo 2: Oggetti
-- Liste
-- Tuple
-- Dizionari
+- Introduzione a Python
+- Overview del linguaggio Python
+- Oggetti di Python
+- Istruzioni e cicli
+- Funzioni e classi
 
-### Modulo 3: Istruzioni e Cicli
-- Istruzioni: if, elif, else
-- Cicli: while e for
-- Funzione range()
-- Istruzioni: break e continue
+## NumPy: Utilizzo degli Array
 
-### Modulo 4: Funzioni e Classi
-- Funzioni
-- Classi
+Il notebook `02_Numpy.ipynb` introduce NumPy, la libreria fondamentale per l'elaborazione efficiente di array in Python. Vengono trattati i seguenti argomenti:
 
-## 02 Numpy: L'utilizzo degli array
-- Introduzione Numpy NArray
-- Operazioni con array
+- Introduzione agli array NumPy
+- Operazioni di base con array
 - Operazioni con matrici
-- Navigare array e matrici
-- Funzioni numpy
-- Linear algebra operations
-- System of linear equations
+- Funzioni di NumPy
+- Operazioni di algebra lineare
 
-## 03 Pandas: La data manipulation
-- Import dati
-- Funzioni generiche dataframe
-- Estrazioni dati dal dataframe
-- Funzioni dataframe
-- Creazione colonna
-- Join
-- Manipolazioni stringhe
-- Manipolazioni date
+## Pandas: Manipolazione dei Dati
 
+Il notebook `03_Pandas.ipynb` si concentra su Pandas, una libreria essenziale per la manipolazione e l'analisi dei dati tabulari in Python. Vengono esaminati i seguenti argomenti:
 
-Divertiti ad esplorare e imparare con i notebook! Se hai domande o suggerimenti, non esitare a contattarci. Buona formazione!
+- Importazione dei dati
+- Funzioni base dei DataFrame
+- Estrazione e manipolazione dei dati
+- Creazione di colonne
+- Join e concatenazione di DataFrame
+- Manipolazione delle stringhe e delle date
+
+Esplorate questi notebook per acquisire una solida comprensione di Python e delle librerie NumPy e Pandas, fondamentali per l'analisi dei dati.
